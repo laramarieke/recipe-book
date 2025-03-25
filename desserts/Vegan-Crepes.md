@@ -1,15 +1,20 @@
-Vegan Crêpes
+# Vegan Crêpes
 
-Ingredients
+## Ingredients
 
 250 g All-Purpose Flour - or half all-purpose half wholewheat flour for healthier crepes
+
 530 ml Soy Milk - at room temperature, or oat milk or unsweetened almond milk
+
 30 ml Oil - at room temperature
+
 2-4 tablespoons Sugar - add 4 tablespoons for very sweet crepes
+
 1 tablespoon Vanilla
+
 1 teaspoon Cinnamon - optional
 
-Instructions
+# Instructions
 
 Before you start, make sure all the ingredients are at room temperature. If you are using cold milk, you will create flour lumps that will require an electric beater to be dissolved.
 In a large mixing bowl, add flour of your choice – I recommend all-purpose wheat or spelt flour for best results. Whisk for a few seconds to remove any big lumps. You don't need to sift the flour.
